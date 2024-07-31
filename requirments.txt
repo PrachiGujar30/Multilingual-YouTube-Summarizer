@@ -1,0 +1,8 @@
+youtube-transcript-api
+transformers
+pathlib
+torch
+torchvision
+torchaudio
+flask
+deep_translator
