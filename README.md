@@ -50,7 +50,7 @@ Displays the summarized text and video thumbnail, providing users with a clear a
      `python -m venv venv
       source venv/bin/activate`
 5. Install dependencies:
-     `pip install -r requirements.txT`
+     `pip install -r requirements.txt`
 7. Run the Flask application:
      `flask run -p 5001`
 9. Open your browser and go to
